@@ -223,11 +223,11 @@
   long_press_marginal_area_min_y=2098
   long_press_marginal_area_max_y=2424
   long_press_motion_tolerance_outer=420
-  long_press_min_touch_node_count=4
+  long_press_min_touch_node_count=2
   long_press_monitor_channel_min_tx=8
-  long_press_monitor_channel_max_tx=11
-  long_press_monitor_channel_min_rx=29
-  long_press_monitor_channel_max_rx=31
+  long_press_monitor_channel_max_tx=9
+  long_press_monitor_channel_min_rx=8
+  long_press_monitor_channel_max_rx=10
   long_press_orientation_enabled=1
   long_press_orientation_scale=45
 
